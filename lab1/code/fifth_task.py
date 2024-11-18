@@ -9,7 +9,7 @@ columns = ["product_id", "name", "price", "quantity", "category", "description",
 to_float = ['price', 'rating']
 to_int = ['product_id', 'quantity']
 
-with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\data\fifth_task.html", "r", encoding="utf-8") as file:
+with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\lab1\data\fifth_task.html", "r", encoding="utf-8") as file:
     html = file.read()
 
 soup = BeautifulSoup(html, "html.parser")
@@ -34,7 +34,7 @@ for row in soup.find_all("tr"):
     if len(item) > 0:
         data.append(item)
 
-with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\result\fifth_task_result.csv", "w", encoding="utf-8", newline="") as file:
+with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\lab1\result\fifth_task_result.csv", "w", encoding="utf-8", newline="") as file:
     writer = csv.DictWriter(file, data[0].keys())
     writer.writeheader()
     for row in data:

@@ -3,7 +3,7 @@
 # Сумма по каждой строке
 import math
 def read_file():
-    with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\data\third_task.txt", encoding="utf-8") as file:
+    with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\lab1\data\third_task.txt", encoding="utf-8") as file:
         lines = file.readlines()
         table = []
         for line in lines:
@@ -34,7 +34,7 @@ def filter_and_sum(table):
     return result
 
 def write_to_file(column):
-    with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\result\third_task_result.txt", "w", encoding="utf-8") as file:
+    with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\lab1\result\third_task_result.txt", "w", encoding="utf-8") as file:
         for num in column:
             file.write(f"{num}\n")
 print('Результат записан в файл third_task_result.txt')

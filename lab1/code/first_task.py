@@ -3,7 +3,7 @@
 
 
 def read_file():
-    with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\data\first_task.txt", encoding="utf-8") as file:
+    with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\lab1\data\first_task.txt", encoding="utf-8") as file:
         return file.readlines()
 
 
@@ -33,7 +33,7 @@ def find_words(words):
     fraction_four_words = round(((four_words / total_words) * 100), 2)
     result = (f"Слова с длиной более 4 символов: {four_words}\n"
               f"Доля таких слов: {fraction_four_words}%")
-    with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\result\first_task_result_2.txt", "w", encoding="utf-8") as file:
+    with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\lab1\result\first_task_result_2.txt", "w", encoding="utf-8") as file:
         file.write(result)
 
 
@@ -51,7 +51,7 @@ def calc_freq(words):
 
 
 def write_to_first_file(stat):
-    with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\result\first_task_result.txt", "w", encoding="utf-8") as file:
+    with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\lab1\result\first_task_result.txt", "w", encoding="utf-8") as file:
         for key, val in stat:
             file.write(f"{key}:{val}\n")
 print('Отсортированный список всех слов записан в файл first_task_result.txt')

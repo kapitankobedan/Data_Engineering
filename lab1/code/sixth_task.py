@@ -37,5 +37,5 @@ if __name__ == "__main__":
     html_output = json_to_html(weather_data)
     print('Результат записан в файл sixth_task_result.html')
 
-    with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\result\sixth_task_result.html", "w", encoding="utf-8") as file:
+    with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\lab1\result\sixth_task_result.html", "w", encoding="utf-8") as file:
         file.write(html_output)

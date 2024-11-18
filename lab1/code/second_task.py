@@ -13,7 +13,7 @@
 
 
 def read_file():
-    with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\data\second_task.txt", encoding="utf-8") as file:
+    with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\lab1\data\second_task.txt", encoding="utf-8") as file:
         lines = file.readlines()
         table = []
         for line in lines:
@@ -51,7 +51,7 @@ def find_min(column):
     return minimum
 
 def second_operation(column, maximum, minimum):
-    with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\result\second_task_result.txt", "w", encoding="utf-8") as file:
+    with open(r"C:\Users\Данила\PycharmProjects\DE_practice1\lab1\result\second_task_result.txt", "w", encoding="utf-8") as file:
         for num in column:
             file.write(f"{num}\n")
         file.write(f"\n{maximum}\n{minimum}")
