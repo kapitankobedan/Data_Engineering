@@ -29,10 +29,10 @@ def handel_file(path):
 
 items = []
 for i in range(2, 77):
-    items.append(handel_file(fr"C:\Users\Данила\PycharmProjects\DE_labs\lab3\data\1\{i}.html"))
+    items.append(handel_file(fr"..\data\1\{i}.html"))
 sorting_criteria = 'price, rub'
 sorted_items = sorted(items, key=lambda x: x[sorting_criteria], reverse=True)
-with open(r"C:\Users\Данила\PycharmProjects\DE_labs\lab3\result\result3.1.1.json", 'w', encoding="utf-8") as file:
+with open(r"..\result\result3.1.1.json", 'w', encoding="utf-8") as file:
     json.dump(sorted_items, file, ensure_ascii=False)
     print(f"Данные отсортированы по признаку '{sorting_criteria}' и записаны в result3.1.1.json")
 
@@ -42,7 +42,7 @@ filtered_items = []
 for item in items:
     if item[filtering_criteria] > minimum_filtering:
         filtered_items.append(item)
-with open(r"C:\Users\Данила\PycharmProjects\DE_labs\lab3\result\result3.1.2.json", 'w', encoding="utf-8") as file:
+with open(r"..\result\result3.1.2.json", 'w', encoding="utf-8") as file:
     json.dump(filtered_items, file, ensure_ascii=False)
     print(f"Данные, значение '{filtering_criteria}' которых больше {minimum_filtering}, записаны в result3.1.2.json")
 
@@ -61,7 +61,7 @@ for item in items:
         cur_max = item[interesting_criteria]
 average = total/count
 result = f"Статистические характеристики по признаку '{interesting_criteria}':\n Сумма = {total}\n Максимум = {cur_max}\n Минимум = {cur_min}\n Среднее = {average}"
-with open(r"C:\Users\Данила\PycharmProjects\DE_labs\lab3\result\result3.1.3.txt", 'w', encoding="utf-8") as file:
+with open(r"..\result\result3.1.3.txt", 'w', encoding="utf-8") as file:
     file.write(result)
     print(f"Статистческие характеристики по признаку '{interesting_criteria}' записаны в result3.1.3.txt")
 
@@ -74,6 +74,6 @@ label_freq = {label: 0 for label in set_of_labels}
 for item in items:
     label = item[interesting_text_criteria]
     label_freq[label] += 1
-with open(r"C:\Users\Данила\PycharmProjects\DE_labs\lab3\result\result3.1.4.json", 'w', encoding="utf-8") as file:
+with open(r"..\result\result3.1.4.json", 'w', encoding="utf-8") as file:
     json.dump(label_freq, file, ensure_ascii=False)
     print(f"Количества одинковых меток по признаку'{interesting_text_criteria}' записаны в result3.1.4.json")
