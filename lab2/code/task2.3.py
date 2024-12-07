@@ -7,7 +7,7 @@ def read_json(path):
         return json.load(file)
 
 
-products = read_json(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\data\third_task.json")
+products = read_json(r"..\data\third_task.json")
 products_stat = {}
 
 for product in products:
@@ -36,15 +36,15 @@ for name in products_stat:
 to_save = list(products_stat.values())
 
 
-with open(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\result\result2.3.1.json", "w", encoding="utf-8") as file:
+with open(r"..\result\result2.3.1.json", "w", encoding="utf-8") as file:
     json.dump(to_save, file, ensure_ascii=False)
     print("Результат в формате json записан в result2.3.1.json")
 
-with open(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\result\result2.3.2.msgpack", "wb") as file:
+with open(r"..\result\result2.3.2.msgpack", "wb") as file:
     msgpack.dump(to_save, file)
     print("Результат в формате msgpack записан в result2.3.2.msgpack")
 
-first_size = os.path.getsize(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\result\result2.3.1.json")
-second_size = os.path.getsize(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\result\result2.3.2.msgpack")
+first_size = os.path.getsize(r"..\result\result2.3.1.json")
+second_size = os.path.getsize(r"..\result\result2.3.2.msgpack")
 
 print(f"json = {first_size}\nmsgpack = {second_size}\ndiff = {first_size-second_size}") 

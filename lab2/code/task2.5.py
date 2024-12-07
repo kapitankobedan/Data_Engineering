@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 import os
 
-df = pd.read_csv(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\data\IMDb movies.csv")
+df = pd.read_csv(r"..\data\IMDb movies.csv")
 
 # print(df)
 
@@ -61,27 +61,27 @@ text_columns = ['genre', 'country']
 
 result = find_indicators(new_df, numerical_columns, text_columns)
 
-with open(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\result\result2.5.1.json", "w") as file:
+with open(r"..\result\result2.5.1.json", "w") as file:
     json.dump(result, file)
     print(f'Результат записан в result2.5.1.json')
 
-df.to_json(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\result\result2.5.2.json")
+df.to_json(r"..\result\result2.5.2.json")
 print('Результат записан в result2.5.2.json')
-with open(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\result\result2.5.3.msgpack", "wb") as file:
+with open(r"..\result\result2.5.3.msgpack", "wb") as file:
     packed = msgpack.packb(df.to_dict(), use_bin_type=True)
     file.write(packed)
     print('Результат записан в result2.5.3.msgpack')
 # with open(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\result\result2.5.3.msgpack", "rb") as file:
 #     unpacked = msgpack.unpackb(file.read(), strict_map_key=False, raw=False)  # raw=False для строк
 #     print(unpacked)
-with open(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\result\result2.5.4.pkl", "wb") as file:
+with open(r"..\result\result2.5.4.pkl", "wb") as file:
     pickle.dump(df, file)
     print('Результат записан в result2.5.4.pkl')
 
 
-first_size = os.path.getsize(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\data\IMDb movies.csv")
-second_size = os.path.getsize(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\result\result2.5.2.json")
-third_size = os.path.getsize(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\result\result2.5.3.msgpack")
-fourth_size = os.path.getsize(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\result\result2.5.4.pkl")
+first_size = os.path.getsize(r"..\data\IMDb movies.csv")
+second_size = os.path.getsize(r"..\result\result2.5.2.json")
+third_size = os.path.getsize(r"..\result\result2.5.3.msgpack")
+fourth_size = os.path.getsize(r"..\result\result2.5.4.pkl")
 
 print(f"csv = {first_size}\njson = {second_size}\nmsgpack = {third_size}\npkl = {fourth_size}")

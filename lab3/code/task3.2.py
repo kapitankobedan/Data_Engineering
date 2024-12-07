@@ -79,6 +79,6 @@ for item in all_items:
     if interesting_text_criteria in item:  # Проверяем наличие ключа перед использованием
         label = item[interesting_text_criteria]
         label_freq[label] += 1
-with open(r"C:\Users\Данила\PycharmProjects\DE_labs\lab3\result\result3.2.4.json", 'w', encoding="utf-8") as file:
+with open(r"..\result\result3.2.4.json", 'w', encoding="utf-8") as file:
     json.dump(label_freq, file, ensure_ascii=False)
     print(f"Количества одинковых меток по признаку '{interesting_text_criteria}' записаны в result3.2.4.json")

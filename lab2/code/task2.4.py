@@ -1,10 +1,10 @@
 import pickle
 import json
 
-with open(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\data\fourth_task_products.json", "rb") as file:
+with open(r"..\data\fourth_task_products.json", "rb") as file:
     products = pickle.load(file)
     # print(products)
-with open(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\data\fourth_task_updates.json", "r", encoding="utf-8") as file:
+with open(r"..\data\fourth_task_updates.json", "r", encoding="utf-8") as file:
     updates = json.load(file)
     # print(updates)
 
@@ -33,6 +33,6 @@ for update in updates:
 
 # print(products)
 
-with open(r"C:\Users\Данила\PycharmProjects\DE_labs\lab2\result\result2.4.pkl", "wb") as file:
+with open(r"..\result\result2.4.pkl", "wb") as file:
     pickle.dump(products, file)
     print('Результат записан в result2.4.pkl')
