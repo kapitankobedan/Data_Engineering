@@ -1,7 +1,11 @@
 import numpy as np
 import json
 
+<<<<<<< HEAD
 matrix = np.load(r"../data/first_task.npy")
+=======
+matrix = np.load("../data/first_task.npy")
+>>>>>>> 51fe14d7a88bdd83a35705e033adfbfd654dcc2f
 
 matrix_props = {
     'sum': 0,
