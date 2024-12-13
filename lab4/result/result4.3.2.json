@@ -1,8 +1,0 @@
-[
-    {
-        "SUM(duration_ms)": 256921642,
-        "MIN(duration_ms)": 114893,
-        "MAX(duration_ms)": 452906,
-        "AVG(duration_ms)": 229394.32321428572
-    }
-]
