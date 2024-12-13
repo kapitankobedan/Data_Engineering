@@ -1,0 +1,842 @@
+[
+    {
+        "id": 335,
+        "artist": "t.A.T.u.",
+        "song": "All The Things She Said",
+        "duration_ms": 214440,
+        "year": 2020,
+        "tempo": 179.92,
+        "genre": "pop",
+        "energy": 0.834
+    },
+    {
+        "id": 750,
+        "artist": "NSG",
+        "song": "Options",
+        "duration_ms": 240081,
+        "year": 2020,
+        "tempo": 101.993,
+        "genre": "World/Traditional, hip hop",
+        "energy": 0.621
+    },
+    {
+        "id": 11,
+        "artist": "Sech",
+        "song": "Otro Trago",
+        "duration_ms": 225933,
+        "year": 2019,
+        "tempo": 176.044,
+        "genre": "latin",
+        "energy": 0.7
+    },
+    {
+        "id": 18,
+        "artist": "Jonas Brothers",
+        "song": "Only Human",
+        "duration_ms": 183000,
+        "year": 2019,
+        "tempo": 94.01,
+        "genre": "pop",
+        "energy": 0.496
+    },
+    {
+        "id": 22,
+        "artist": "Regard",
+        "song": "Ride It",
+        "duration_ms": 157605,
+        "year": 2019,
+        "tempo": 117.948,
+        "genre": "pop, Dance/Electronic",
+        "energy": 0.751
+    },
+    {
+        "id": 28,
+        "artist": "Post Malone",
+        "song": "Wow.",
+        "duration_ms": 149546,
+        "year": 2019,
+        "tempo": 99.96,
+        "genre": "hip hop",
+        "energy": 0.539
+    },
+    {
+        "id": 45,
+        "artist": "Gesaffelstein",
+        "song": "Lost in the Fire (feat. The Weeknd)",
+        "duration_ms": 202093,
+        "year": 2019,
+        "tempo": 100.966,
+        "genre": "Dance/Electronic",
+        "energy": 0.671
+    },
+    {
+        "id": 78,
+        "artist": "Lauv",
+        "song": "i'm so tired...",
+        "duration_ms": 162582,
+        "year": 2019,
+        "tempo": 102.211,
+        "genre": "pop, Dance/Electronic",
+        "energy": 0.733
+    },
+    {
+        "id": 84,
+        "artist": "Billie Eilish",
+        "song": "bury a friend",
+        "duration_ms": 193143,
+        "year": 2019,
+        "tempo": 120.046,
+        "genre": "pop, Dance/Electronic",
+        "energy": 0.389
+    },
+    {
+        "id": 109,
+        "artist": "Kehlani",
+        "song": "Nights Like This (feat. Ty Dolla $ign)",
+        "duration_ms": 201787,
+        "year": 2019,
+        "tempo": 146.163,
+        "genre": "hip hop, pop, R&B",
+        "energy": 0.725
+    },
+    {
+        "id": 129,
+        "artist": "Polo G",
+        "song": "Pop Out (feat. Lil Tjay)",
+        "duration_ms": 166560,
+        "year": 2019,
+        "tempo": 168.112,
+        "genre": "hip hop",
+        "energy": 0.639
+    },
+    {
+        "id": 168,
+        "artist": "Ed Sheeran",
+        "song": "Take Me Back to London (feat. Stormzy)",
+        "duration_ms": 189733,
+        "year": 2019,
+        "tempo": 138.058,
+        "genre": "pop",
+        "energy": 0.762
+    },
+    {
+        "id": 177,
+        "artist": "Hinder",
+        "song": "Lips Of An Angel",
+        "duration_ms": 261053,
+        "year": 2019,
+        "tempo": 129.005,
+        "genre": "pop, rock, metal",
+        "energy": 0.744
+    },
+    {
+        "id": 178,
+        "artist": "Lil Nas X",
+        "song": "Old Town Road - Remix",
+        "duration_ms": 157066,
+        "year": 2019,
+        "tempo": 136.041,
+        "genre": "hip hop, pop",
+        "energy": 0.619
+    },
+    {
+        "id": 186,
+        "artist": "Megan Thee Stallion",
+        "song": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
+        "duration_ms": 199427,
+        "year": 2019,
+        "tempo": 98.985,
+        "genre": "hip hop, pop, R&B",
+        "energy": 0.814
+    },
+    {
+        "id": 195,
+        "artist": "Daddy Yankee",
+        "song": "Con Calma",
+        "duration_ms": 193226,
+        "year": 2019,
+        "tempo": 93.989,
+        "genre": "latin",
+        "energy": 0.86
+    },
+    {
+        "id": 215,
+        "artist": "Hayden James",
+        "song": "NUMB",
+        "duration_ms": 217296,
+        "year": 2019,
+        "tempo": 147.932,
+        "genre": "pop, Dance/Electronic",
+        "energy": 0.558
+    },
+    {
+        "id": 226,
+        "artist": "5 Seconds of Summer",
+        "song": "Easier",
+        "duration_ms": 157492,
+        "year": 2019,
+        "tempo": 175.813,
+        "genre": "pop",
+        "energy": 0.428
+    },
+    {
+        "id": 232,
+        "artist": "Drake",
+        "song": "Money In The Grave (Drake ft. Rick Ross)",
+        "duration_ms": 205426,
+        "year": 2019,
+        "tempo": 100.541,
+        "genre": "hip hop, pop, R&B",
+        "energy": 0.502
+    },
+    {
+        "id": 245,
+        "artist": "iann dior",
+        "song": "gone girl",
+        "duration_ms": 136568,
+        "year": 2019,
+        "tempo": 94.956,
+        "genre": "hip hop, pop",
+        "energy": 0.714
+    },
+    {
+        "id": 246,
+        "artist": "Lil' Kim",
+        "song": "Magic Stick",
+        "duration_ms": 359973,
+        "year": 2019,
+        "tempo": 92.98,
+        "genre": "hip hop, pop, R&B",
+        "energy": 0.498
+    },
+    {
+        "id": 275,
+        "artist": "Anuel AA",
+        "song": "China",
+        "duration_ms": 301714,
+        "year": 2019,
+        "tempo": 105.027,
+        "genre": "latin",
+        "energy": 0.808
+    },
+    {
+        "id": 313,
+        "artist": "Flipp Dinero",
+        "song": "Leave Me Alone",
+        "duration_ms": 195637,
+        "year": 2019,
+        "tempo": 150.024,
+        "genre": "hip hop, pop",
+        "energy": 0.743
+    },
+    {
+        "id": 321,
+        "artist": "Marshmello",
+        "song": "One Thing Right",
+        "duration_ms": 181823,
+        "year": 2019,
+        "tempo": 88.042,
+        "genre": "pop, Dance/Electronic",
+        "energy": 0.625
+    },
+    {
+        "id": 341,
+        "artist": "NLE Choppa",
+        "song": "Shotta Flow (feat. Blueface) [Remix]",
+        "duration_ms": 176631,
+        "year": 2019,
+        "tempo": 120.08,
+        "genre": "hip hop",
+        "energy": 0.511
+    },
+    {
+        "id": 351,
+        "artist": "Post Malone",
+        "song": "Goodbyes (Feat. Young Thug)",
+        "duration_ms": 174960,
+        "year": 2019,
+        "tempo": 150.231,
+        "genre": "hip hop",
+        "energy": 0.653
+    },
+    {
+        "id": 359,
+        "artist": "Lewis Capaldi",
+        "song": "Someone You Loved",
+        "duration_ms": 182160,
+        "year": 2019,
+        "tempo": 109.891,
+        "genre": "pop",
+        "energy": 0.405
+    },
+    {
+        "id": 365,
+        "artist": "Post Malone",
+        "song": "Circles",
+        "duration_ms": 215280,
+        "year": 2019,
+        "tempo": 120.042,
+        "genre": "hip hop",
+        "energy": 0.762
+    },
+    {
+        "id": 367,
+        "artist": "DJ Snake",
+        "song": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+        "duration_ms": 212500,
+        "year": 2019,
+        "tempo": 95.881,
+        "genre": "hip hop, pop, Dance/Electronic",
+        "energy": 0.801
+    },
+    {
+        "id": 375,
+        "artist": "J. Cole",
+        "song": "MIDDLE CHILD",
+        "duration_ms": 213593,
+        "year": 2019,
+        "tempo": 123.984,
+        "genre": "hip hop",
+        "energy": 0.364
+    },
+    {
+        "id": 378,
+        "artist": "Jonas Brothers",
+        "song": "Sucker",
+        "duration_ms": 181026,
+        "year": 2019,
+        "tempo": 137.958,
+        "genre": "pop",
+        "energy": 0.734
+    },
+    {
+        "id": 384,
+        "artist": "Hinder",
+        "song": "Better Than Me",
+        "duration_ms": 223533,
+        "year": 2019,
+        "tempo": 139.913,
+        "genre": "pop, rock, metal",
+        "energy": 0.682
+    },
+    {
+        "id": 436,
+        "artist": "K-Ci & JoJo",
+        "song": "Crazy",
+        "duration_ms": 262773,
+        "year": 2019,
+        "tempo": 116.097,
+        "genre": "pop, R&B",
+        "energy": 0.644
+    },
+    {
+        "id": 482,
+        "artist": "Mabel",
+        "song": "Mad Love",
+        "duration_ms": 169813,
+        "year": 2019,
+        "tempo": 198.065,
+        "genre": "pop, Dance/Electronic",
+        "energy": 0.803
+    },
+    {
+        "id": 561,
+        "artist": "Lunay",
+        "song": "Soltera - Remix",
+        "duration_ms": 266086,
+        "year": 2019,
+        "tempo": 92.01,
+        "genre": "pop, latin",
+        "energy": 0.783
+    },
+    {
+        "id": 575,
+        "artist": "BTS",
+        "song": "Boy With Luv (feat. Halsey)",
+        "duration_ms": 229773,
+        "year": 2019,
+        "tempo": 119.991,
+        "genre": "pop",
+        "energy": 0.862
+    },
+    {
+        "id": 613,
+        "artist": "Paulo Londra",
+        "song": "Adan y Eva",
+        "duration_ms": 256971,
+        "year": 2019,
+        "tempo": 171.993,
+        "genre": "hip hop, latin, Dance/Electronic",
+        "energy": 0.709
+    },
+    {
+        "id": 614,
+        "artist": "Saweetie",
+        "song": "My Type",
+        "duration_ms": 126446,
+        "year": 2019,
+        "tempo": 105.038,
+        "genre": "hip hop, pop, R&B",
+        "energy": 0.811
+    },
+    {
+        "id": 626,
+        "artist": "Anuel AA",
+        "song": "Secreto",
+        "duration_ms": 258800,
+        "year": 2019,
+        "tempo": 91.987,
+        "genre": "latin",
+        "energy": 0.803
+    },
+    {
+        "id": 668,
+        "artist": "Aaliyah",
+        "song": "Rock The Boat",
+        "duration_ms": 275026,
+        "year": 2019,
+        "tempo": 92.988,
+        "genre": "hip hop, pop, R&B",
+        "energy": 0.72
+    },
+    {
+        "id": 670,
+        "artist": "MEDUZA",
+        "song": "Piece Of Your Heart",
+        "duration_ms": 152913,
+        "year": 2019,
+        "tempo": 124.08,
+        "genre": "pop, Dance/Electronic",
+        "energy": 0.744
+    },
+    {
+        "id": 707,
+        "artist": "Young Thug",
+        "song": "The London (feat. J. Cole & Travis Scott)",
+        "duration_ms": 200106,
+        "year": 2019,
+        "tempo": 97.981,
+        "genre": "hip hop, pop",
+        "energy": 0.586
+    },
+    {
+        "id": 717,
+        "artist": "iann dior",
+        "song": "emotions",
+        "duration_ms": 131213,
+        "year": 2019,
+        "tempo": 80.512,
+        "genre": "hip hop, pop",
+        "energy": 0.63
+    },
+    {
+        "id": 723,
+        "artist": "Post Malone",
+        "song": "Sunflower - Spider-Man: Into the Spider-Verse",
+        "duration_ms": 157560,
+        "year": 2019,
+        "tempo": 89.96,
+        "genre": "hip hop",
+        "energy": 0.522
+    },
+    {
+        "id": 726,
+        "artist": "Jax Jones",
+        "song": "All Day And Night",
+        "duration_ms": 169303,
+        "year": 2019,
+        "tempo": 121.908,
+        "genre": "hip hop, pop, Dance/Electronic",
+        "energy": 0.782
+    },
+    {
+        "id": 755,
+        "artist": "Ariana Grande",
+        "song": "break up with your girlfriend, i'm bored",
+        "duration_ms": 190440,
+        "year": 2019,
+        "tempo": 169.999,
+        "genre": "pop",
+        "energy": 0.554
+    },
+    {
+        "id": 775,
+        "artist": "Dave",
+        "song": "Location (feat. Burna Boy)",
+        "duration_ms": 241293,
+        "year": 2019,
+        "tempo": 109.979,
+        "genre": "hip hop",
+        "energy": 0.496
+    },
+    {
+        "id": 782,
+        "artist": "Juice WRLD",
+        "song": "Robbery",
+        "duration_ms": 240050,
+        "year": 2019,
+        "tempo": 159.966,
+        "genre": "hip hop",
+        "energy": 0.692
+    },
+    {
+        "id": 828,
+        "artist": "Sigala",
+        "song": "Wish You Well",
+        "duration_ms": 205653,
+        "year": 2019,
+        "tempo": 124.975,
+        "genre": "pop, Dance/Electronic",
+        "energy": 0.895
+    },
+    {
+        "id": 842,
+        "artist": "Lana Del Rey",
+        "song": "Doin' Time",
+        "duration_ms": 202192,
+        "year": 2019,
+        "tempo": 144.982,
+        "genre": "pop",
+        "energy": 0.559
+    },
+    {
+        "id": 859,
+        "artist": "Liberty X",
+        "song": "Just A Little",
+        "duration_ms": 237359,
+        "year": 2019,
+        "tempo": 103.887,
+        "genre": "pop",
+        "energy": 0.614
+    },
+    {
+        "id": 882,
+        "artist": "Nicky Jam",
+        "song": "X",
+        "duration_ms": 172854,
+        "year": 2019,
+        "tempo": 179.968,
+        "genre": "latin",
+        "energy": 0.749
+    },
+    {
+        "id": 884,
+        "artist": "Lil Nas X",
+        "song": "Panini",
+        "duration_ms": 114893,
+        "year": 2019,
+        "tempo": 153.848,
+        "genre": "hip hop, pop",
+        "energy": 0.594
+    },
+    {
+        "id": 932,
+        "artist": "Offset",
+        "song": "Clout (feat. Cardi B)",
+        "duration_ms": 205803,
+        "year": 2019,
+        "tempo": 140.022,
+        "genre": "hip hop, pop",
+        "energy": 0.622
+    },
+    {
+        "id": 949,
+        "artist": "Calvin Harris",
+        "song": "Giant (with Rag'n'Bone Man)",
+        "duration_ms": 229184,
+        "year": 2019,
+        "tempo": 122.015,
+        "genre": "hip hop, pop, Dance/Electronic",
+        "energy": 0.887
+    },
+    {
+        "id": 1019,
+        "artist": "BLACKPINK",
+        "song": "Kill This Love",
+        "duration_ms": 189052,
+        "year": 2019,
+        "tempo": 131.98,
+        "genre": "pop",
+        "energy": 0.861
+    },
+    {
+        "id": 1026,
+        "artist": "Normani",
+        "song": "Motivation",
+        "duration_ms": 193837,
+        "year": 2019,
+        "tempo": 170.918,
+        "genre": "pop, R&B",
+        "energy": 0.887
+    },
+    {
+        "id": 1049,
+        "artist": "Dua Lipa",
+        "song": "Don't Start Now",
+        "duration_ms": 183290,
+        "year": 2019,
+        "tempo": 123.941,
+        "genre": "pop",
+        "energy": 0.793
+    },
+    {
+        "id": 1117,
+        "artist": "Ed Sheeran",
+        "song": "Antisocial (with Travis Scott)",
+        "duration_ms": 161746,
+        "year": 2019,
+        "tempo": 151.957,
+        "genre": "pop",
+        "energy": 0.823
+    },
+    {
+        "id": 4,
+        "artist": "EO",
+        "song": "German",
+        "duration_ms": 170825,
+        "year": 2018,
+        "tempo": 103.019,
+        "genre": "set()",
+        "energy": 0.583
+    },
+    {
+        "id": 5,
+        "artist": "Drake",
+        "song": "God's Plan",
+        "duration_ms": 198973,
+        "year": 2018,
+        "tempo": 77.169,
+        "genre": "hip hop, pop, R&B",
+        "energy": 0.449
+    },
+    {
+        "id": 35,
+        "artist": "Lauv",
+        "song": "I Like Me Better",
+        "duration_ms": 197436,
+        "year": 2018,
+        "tempo": 91.97,
+        "genre": "pop, Dance/Electronic",
+        "energy": 0.505
+    },
+    {
+        "id": 57,
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "duration_ms": 417920,
+        "year": 2018,
+        "tempo": 96.507,
+        "genre": "latin",
+        "energy": 0.675
+    },
+    {
+        "id": 66,
+        "artist": "Liam Payne",
+        "song": "For You (Fifty Shades Freed) (& Rita Ora)",
+        "duration_ms": 245453,
+        "year": 2018,
+        "tempo": 113.0,
+        "genre": "pop",
+        "energy": 0.787
+    },
+    {
+        "id": 87,
+        "artist": "Travis Scott",
+        "song": "SICKO MODE",
+        "duration_ms": 312820,
+        "year": 2018,
+        "tempo": 155.008,
+        "genre": "hip hop, Dance/Electronic",
+        "energy": 0.73
+    },
+    {
+        "id": 91,
+        "artist": "BlocBoy JB",
+        "song": "Look Alive (feat. Drake)",
+        "duration_ms": 181263,
+        "year": 2018,
+        "tempo": 140.022,
+        "genre": "hip hop, pop",
+        "energy": 0.581
+    },
+    {
+        "id": 92,
+        "artist": "Kendrick Lamar",
+        "song": "All The Stars (with SZA)",
+        "duration_ms": 232186,
+        "year": 2018,
+        "tempo": 96.924,
+        "genre": "hip hop",
+        "energy": 0.633
+    },
+    {
+        "id": 115,
+        "artist": "Kodak Black",
+        "song": "ZEZE (feat. Travis Scott & Offset)",
+        "duration_ms": 228759,
+        "year": 2018,
+        "tempo": 98.043,
+        "genre": "hip hop",
+        "energy": 0.603
+    },
+    {
+        "id": 136,
+        "artist": "Imagine Dragons",
+        "song": "Natural",
+        "duration_ms": 189466,
+        "year": 2018,
+        "tempo": 100.0,
+        "genre": "rock",
+        "energy": 0.611
+    },
+    {
+        "id": 257,
+        "artist": "Dean Lewis",
+        "song": "Be Alright",
+        "duration_ms": 196373,
+        "year": 2018,
+        "tempo": 126.684,
+        "genre": "pop",
+        "energy": 0.586
+    },
+    {
+        "id": 259,
+        "artist": "Ella Mai",
+        "song": "Trip",
+        "duration_ms": 213993,
+        "year": 2018,
+        "tempo": 79.882,
+        "genre": "hip hop, pop, R&B",
+        "energy": 0.61
+    },
+    {
+        "id": 272,
+        "artist": "Sean Paul",
+        "song": "No Lie",
+        "duration_ms": 221176,
+        "year": 2018,
+        "tempo": 102.04,
+        "genre": "hip hop, pop",
+        "energy": 0.882
+    },
+    {
+        "id": 304,
+        "artist": "Samantha Mumba",
+        "song": "Gotta Tell You",
+        "duration_ms": 201946,
+        "year": 2018,
+        "tempo": 109.981,
+        "genre": "pop",
+        "energy": 0.632
+    },
+    {
+        "id": 314,
+        "artist": "Rae Sremmurd",
+        "song": "Powerglide (feat. Juicy J) - From SR3MM",
+        "duration_ms": 332300,
+        "year": 2018,
+        "tempo": 173.948,
+        "genre": "hip hop, pop",
+        "energy": 0.831
+    },
+    {
+        "id": 340,
+        "artist": "5 Seconds of Summer",
+        "song": "Youngblood",
+        "duration_ms": 203417,
+        "year": 2018,
+        "tempo": 120.274,
+        "genre": "pop",
+        "energy": 0.854
+    },
+    {
+        "id": 349,
+        "artist": "Post Malone",
+        "song": "rockstar (feat. 21 Savage)",
+        "duration_ms": 218146,
+        "year": 2018,
+        "tempo": 159.801,
+        "genre": "hip hop",
+        "energy": 0.52
+    },
+    {
+        "id": 398,
+        "artist": "Maroon 5",
+        "song": "Girls Like You (feat. Cardi B) - Cardi B Version",
+        "duration_ms": 235545,
+        "year": 2018,
+        "tempo": 124.959,
+        "genre": "pop",
+        "energy": 0.541
+    },
+    {
+        "id": 413,
+        "artist": "Ozuna",
+        "song": "Vaina Loca",
+        "duration_ms": 176133,
+        "year": 2018,
+        "tempo": 93.982,
+        "genre": "latin",
+        "energy": 0.805
+    },
+    {
+        "id": 416,
+        "artist": "The Chainsmokers",
+        "song": "This Feeling",
+        "duration_ms": 197946,
+        "year": 2018,
+        "tempo": 105.049,
+        "genre": "pop, Dance/Electronic",
+        "energy": 0.571
+    },
+    {
+        "id": 423,
+        "artist": "Halsey",
+        "song": "Without Me",
+        "duration_ms": 201660,
+        "year": 2018,
+        "tempo": 136.041,
+        "genre": "pop, Dance/Electronic",
+        "energy": 0.488
+    },
+    {
+        "id": 448,
+        "artist": "XXXTENTACION",
+        "song": "SAD!",
+        "duration_ms": 166605,
+        "year": 2018,
+        "tempo": 75.023,
+        "genre": "hip hop",
+        "energy": 0.613
+    },
+    {
+        "id": 463,
+        "artist": "Marshmello",
+        "song": "FRIENDS",
+        "duration_ms": 202620,
+        "year": 2018,
+        "tempo": 95.079,
+        "genre": "pop, Dance/Electronic",
+        "energy": 0.88
+    },
+    {
+        "id": 465,
+        "artist": "Marshmello",
+        "song": "Spotlight",
+        "duration_ms": 177600,
+        "year": 2018,
+        "tempo": 150.06,
+        "genre": "pop, Dance/Electronic",
+        "energy": 0.822
+    },
+    {
+        "id": 479,
+        "artist": "Post Malone",
+        "song": "Better Now",
+        "duration_ms": 231266,
+        "year": 2018,
+        "tempo": 145.038,
+        "genre": "hip hop",
+        "energy": 0.578
+    }
+]
