@@ -1,0 +1,212 @@
+[
+    {
+        "_id": 21,
+        "max_salary": 177044.7,
+        "min_salary": 34130,
+        "avg_salary": 123568.80833333333
+    },
+    {
+        "_id": 22,
+        "max_salary": 164471,
+        "min_salary": 37315.7257,
+        "avg_salary": 94101.65171333334
+    },
+    {
+        "_id": 23,
+        "max_salary": 157265,
+        "min_salary": 33602,
+        "avg_salary": 98366.1
+    },
+    {
+        "_id": 24,
+        "max_salary": 185488.68370000002,
+        "min_salary": 41403,
+        "avg_salary": 100601.04397272728
+    },
+    {
+        "_id": 25,
+        "max_salary": 164834,
+        "min_salary": 36357,
+        "avg_salary": 103946.86923076924
+    },
+    {
+        "_id": 26,
+        "max_salary": 170914,
+        "min_salary": 28713,
+        "avg_salary": 98907.6447368421
+    },
+    {
+        "_id": 27,
+        "max_salary": 153718,
+        "min_salary": 25624,
+        "avg_salary": 94769.32666666666
+    },
+    {
+        "_id": 28,
+        "max_salary": 143448,
+        "min_salary": 25264,
+        "avg_salary": 83161.45
+    },
+    {
+        "_id": 29,
+        "max_salary": 171195.06516000003,
+        "min_salary": 36909,
+        "avg_salary": 93258.80089176471
+    },
+    {
+        "_id": 30,
+        "max_salary": 181295.1,
+        "min_salary": 59869,
+        "avg_salary": 132423.23928571428
+    },
+    {
+        "_id": 31,
+        "max_salary": 176283.68770000004,
+        "min_salary": 26145,
+        "avg_salary": 87496.699385
+    },
+    {
+        "_id": 32,
+        "max_salary": 167725,
+        "min_salary": 42907,
+        "avg_salary": 100484.885
+    },
+    {
+        "_id": 33,
+        "max_salary": 172786,
+        "min_salary": 26584.95,
+        "avg_salary": 101798.54999999999
+    },
+    {
+        "_id": 34,
+        "max_salary": 164474,
+        "min_salary": 38902,
+        "avg_salary": 111120.38181818182
+    },
+    {
+        "_id": 35,
+        "max_salary": 174573,
+        "min_salary": 29487,
+        "avg_salary": 108113.54545454546
+    },
+    {
+        "_id": 36,
+        "max_salary": 172650.45,
+        "min_salary": 38757,
+        "avg_salary": 124458.81470588235
+    },
+    {
+        "_id": 37,
+        "max_salary": 173851.65,
+        "min_salary": 54999,
+        "avg_salary": 110164.88768
+    },
+    {
+        "_id": 38,
+        "max_salary": 199769.02140000003,
+        "min_salary": 37565,
+        "avg_salary": 114170.6138375
+    },
+    {
+        "_id": 39,
+        "max_salary": 177203.25,
+        "min_salary": 35072.1,
+        "avg_salary": 121178.93500000001
+    },
+    {
+        "_id": 40,
+        "max_salary": 146503,
+        "min_salary": 30181,
+        "avg_salary": 88929.25922142857
+    },
+    {
+        "_id": 41,
+        "max_salary": 144911.55000000002,
+        "min_salary": 30040,
+        "avg_salary": 92060.03041666666
+    },
+    {
+        "_id": 42,
+        "max_salary": 195817.9715,
+        "min_salary": 27045,
+        "avg_salary": 115964.06597058824
+    },
+    {
+        "_id": 43,
+        "max_salary": 172717.65,
+        "min_salary": 51580,
+        "avg_salary": 123260.671875
+    },
+    {
+        "_id": 44,
+        "max_salary": 152112,
+        "min_salary": 29053,
+        "avg_salary": 88253.325
+    },
+    {
+        "_id": 45,
+        "max_salary": 179605.27158000003,
+        "min_salary": 29918,
+        "avg_salary": 94047.253469
+    },
+    {
+        "_id": 46,
+        "max_salary": 183545.25,
+        "min_salary": 26825,
+        "avg_salary": 106720.48932380952
+    },
+    {
+        "_id": 47,
+        "max_salary": 148819,
+        "min_salary": 38319,
+        "avg_salary": 82224.25
+    },
+    {
+        "_id": 48,
+        "max_salary": 188861.5591,
+        "min_salary": 34014,
+        "avg_salary": 110304.698545
+    },
+    {
+        "_id": 49,
+        "max_salary": 160701,
+        "min_salary": 25921,
+        "avg_salary": 85992.43823529412
+    },
+    {
+        "_id": 50,
+        "max_salary": 169827,
+        "min_salary": 43072.05,
+        "avg_salary": 107924.74250000001
+    },
+    {
+        "_id": 51,
+        "max_salary": 172882,
+        "min_salary": 25194,
+        "avg_salary": 116952.51944444445
+    },
+    {
+        "_id": 52,
+        "max_salary": 170123,
+        "min_salary": 43484,
+        "avg_salary": 101314.57069473685
+    },
+    {
+        "_id": 53,
+        "max_salary": 174820.80000000002,
+        "min_salary": 33951.75,
+        "avg_salary": 109991.39736842105
+    },
+    {
+        "_id": 54,
+        "max_salary": 171420,
+        "min_salary": 44424.066330000016,
+        "avg_salary": 111331.472364375
+    },
+    {
+        "_id": 55,
+        "max_salary": 174720,
+        "min_salary": 44648,
+        "avg_salary": 113232.62470588236
+    }
+]
