@@ -1,0 +1,308 @@
+[
+    {
+        "Player": "Kobe Bryant",
+        "Season": "1996",
+        "Avg_three_point_rate": 37.0,
+        "Avg_win_shares": 0.95
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "1997",
+        "Avg_three_point_rate": 21.25,
+        "Avg_win_shares": 3.25
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "1998",
+        "Avg_three_point_rate": 14.6,
+        "Avg_win_shares": 2.8
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "1999",
+        "Avg_three_point_rate": 14.2,
+        "Avg_win_shares": 6.35
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "2000",
+        "Avg_three_point_rate": 11.35,
+        "Avg_win_shares": 7.55
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "2001",
+        "Avg_three_point_rate": 10.9,
+        "Avg_win_shares": 7.65
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "2002",
+        "Avg_three_point_rate": 18.2,
+        "Avg_win_shares": 8.2
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "2003",
+        "Avg_three_point_rate": 19.75,
+        "Avg_win_shares": 6.8
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "2004",
+        "Avg_three_point_rate": 29.2,
+        "Avg_win_shares": 8.1
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "2005",
+        "Avg_three_point_rate": 23.95,
+        "Avg_win_shares": 7.95
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "2006",
+        "Avg_three_point_rate": 22.1,
+        "Avg_win_shares": 6.75
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "2007",
+        "Avg_three_point_rate": 23.75,
+        "Avg_win_shares": 8.5
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "2008",
+        "Avg_three_point_rate": 19.8,
+        "Avg_win_shares": 8.7
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "2009",
+        "Avg_three_point_rate": 22.4,
+        "Avg_win_shares": 6.5
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "2010",
+        "Avg_three_point_rate": 21.85,
+        "Avg_win_shares": 5.5
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "2011",
+        "Avg_three_point_rate": 20.7,
+        "Avg_win_shares": 3.8
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "2012",
+        "Avg_three_point_rate": 25.5,
+        "Avg_win_shares": 10.9
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "2013",
+        "Avg_three_point_rate": 21.9,
+        "Avg_win_shares": -0.4
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "2014",
+        "Avg_three_point_rate": 25.8,
+        "Avg_win_shares": 0.2
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": "2015",
+        "Avg_three_point_rate": 42.0,
+        "Avg_win_shares": -0.4
+    },
+    {
+        "Player": "Lebron James",
+        "Season": "2003",
+        "Avg_three_point_rate": 14.5,
+        "Avg_win_shares": 5.1
+    },
+    {
+        "Player": "Lebron James",
+        "Season": "2004",
+        "Avg_three_point_rate": 18.3,
+        "Avg_win_shares": 14.3
+    },
+    {
+        "Player": "Lebron James",
+        "Season": "2005",
+        "Avg_three_point_rate": 20.65,
+        "Avg_win_shares": 9.0
+    },
+    {
+        "Player": "Lebron James",
+        "Season": "2006",
+        "Avg_three_point_rate": 18.95,
+        "Avg_win_shares": 8.7
+    },
+    {
+        "Player": "Lebron James",
+        "Season": "2007",
+        "Avg_three_point_rate": 23.7,
+        "Avg_win_shares": 8.7
+    },
+    {
+        "Player": "Lebron James",
+        "Season": "2008",
+        "Avg_three_point_rate": 24.9,
+        "Avg_win_shares": 12.55
+    },
+    {
+        "Player": "Lebron James",
+        "Season": "2009",
+        "Avg_three_point_rate": 24.5,
+        "Avg_win_shares": 10.4
+    },
+    {
+        "Player": "Lebron James",
+        "Season": "2010",
+        "Avg_three_point_rate": 20.8,
+        "Avg_win_shares": 9.7
+    },
+    {
+        "Player": "Lebron James",
+        "Season": "2011",
+        "Avg_three_point_rate": 14.8,
+        "Avg_win_shares": 10.15
+    },
+    {
+        "Player": "Lebron James",
+        "Season": "2012",
+        "Avg_three_point_rate": 20.5,
+        "Avg_win_shares": 12.25
+    },
+    {
+        "Player": "Lebron James",
+        "Season": "2013",
+        "Avg_three_point_rate": 23.95,
+        "Avg_win_shares": 10.1
+    },
+    {
+        "Player": "Lebron James",
+        "Season": "2014",
+        "Avg_three_point_rate": 23.35,
+        "Avg_win_shares": 6.7
+    },
+    {
+        "Player": "Lebron James",
+        "Season": "2015",
+        "Avg_three_point_rate": 21.2,
+        "Avg_win_shares": 9.15
+    },
+    {
+        "Player": "Lebron James",
+        "Season": "2016",
+        "Avg_three_point_rate": 26.65,
+        "Avg_win_shares": 8.6
+    },
+    {
+        "Player": "Lebron James",
+        "Season": "2017",
+        "Avg_three_point_rate": 24.05,
+        "Avg_win_shares": 9.6
+    },
+    {
+        "Player": "Lebron James",
+        "Season": "2018",
+        "Avg_three_point_rate": 29.9,
+        "Avg_win_shares": 7.2
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": "1984",
+        "Avg_three_point_rate": 6.75,
+        "Avg_win_shares": 7.35
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": "1985",
+        "Avg_three_point_rate": 3.3,
+        "Avg_win_shares": 1.0
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": "1986",
+        "Avg_three_point_rate": 4.45,
+        "Avg_win_shares": 8.65
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": "1987",
+        "Avg_three_point_rate": 1.95,
+        "Avg_win_shares": 11.65
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": "1988",
+        "Avg_three_point_rate": 7.25,
+        "Avg_win_shares": 11.9
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": "1989",
+        "Avg_three_point_rate": 12.1,
+        "Avg_win_shares": 11.5
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": "1990",
+        "Avg_three_point_rate": 6.0,
+        "Avg_win_shares": 12.55
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": "1991",
+        "Avg_three_point_rate": 6.55,
+        "Avg_win_shares": 10.9
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": "1992",
+        "Avg_three_point_rate": 12.55,
+        "Avg_win_shares": 10.8
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": "1994",
+        "Avg_three_point_rate": 10.0,
+        "Avg_win_shares": 1.8
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": "1995",
+        "Avg_three_point_rate": 14.65,
+        "Avg_win_shares": 12.55
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": "1996",
+        "Avg_three_point_rate": 14.6,
+        "Avg_win_shares": 11.1
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": "1997",
+        "Avg_three_point_rate": 7.45,
+        "Avg_win_shares": 10.3
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": "2001",
+        "Avg_three_point_rate": 4.0,
+        "Avg_win_shares": 3.3
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": "2002",
+        "Avg_three_point_rate": 3.6,
+        "Avg_win_shares": 6.2
+    }
+]

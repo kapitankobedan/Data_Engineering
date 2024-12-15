@@ -10,9 +10,9 @@ def read_msgpack(path):
 def create_table2(db):
     cursor = db.cursor()
     cursor.execute("""
-        CREATE TABLE another_someDB (
+        CREATE TABLE another_someDB(
             id integer primary key,
-            name text references(someDB.name),
+            name text references someDB(name),
             rating float,
             convenience integer,
             security integer,

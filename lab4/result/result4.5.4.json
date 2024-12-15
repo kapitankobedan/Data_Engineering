@@ -1,0 +1,345 @@
+[
+    {
+        "Player": "Kobe Bryant",
+        "Season": 1996,
+        "Salary": 1015000,
+        "PER": 14.4,
+        "Salary_per_efficiency": 70486.11
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 1997,
+        "Salary": 1167240,
+        "PER": 18.5,
+        "Salary_per_efficiency": 63094.05
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 1998,
+        "Salary": 1319000,
+        "PER": 18.9,
+        "Salary_per_efficiency": 69788.36
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 1999,
+        "Salary": 9000000,
+        "PER": 21.7,
+        "Salary_per_efficiency": 414746.54
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2000,
+        "Salary": 10130000,
+        "PER": 24.5,
+        "Salary_per_efficiency": 413469.39
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2001,
+        "Salary": 11250000,
+        "PER": 23.2,
+        "Salary_per_efficiency": 484913.79
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2002,
+        "Salary": 12375000,
+        "PER": 26.2,
+        "Salary_per_efficiency": 472328.24
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2003,
+        "Salary": 13500000,
+        "PER": 23.7,
+        "Salary_per_efficiency": 569620.25
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2004,
+        "Salary": 14175000,
+        "PER": 23.3,
+        "Salary_per_efficiency": 608369.1
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2005,
+        "Salary": 15946875,
+        "PER": 28.0,
+        "Salary_per_efficiency": 569531.25
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2006,
+        "Salary": 17718750,
+        "PER": 26.1,
+        "Salary_per_efficiency": 678879.31
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2007,
+        "Salary": 19490625,
+        "PER": 24.2,
+        "Salary_per_efficiency": 805397.73
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2008,
+        "Salary": 21262500,
+        "PER": 24.4,
+        "Salary_per_efficiency": 871413.93
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2009,
+        "Salary": 23034375,
+        "PER": 21.9,
+        "Salary_per_efficiency": 1051797.95
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2010,
+        "Salary": 24806250,
+        "PER": 23.9,
+        "Salary_per_efficiency": 1037918.41
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2011,
+        "Salary": 25244493,
+        "PER": 21.9,
+        "Salary_per_efficiency": 1152716.58
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2012,
+        "Salary": 27849149,
+        "PER": 23.0,
+        "Salary_per_efficiency": 1210832.57
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2013,
+        "Salary": 30453805,
+        "PER": 10.7,
+        "Salary_per_efficiency": 2846150.0
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2014,
+        "Salary": 23500000,
+        "PER": 17.6,
+        "Salary_per_efficiency": 1335227.27
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2015,
+        "Salary": 25000000,
+        "PER": 14.9,
+        "Salary_per_efficiency": 1677852.35
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2003,
+        "Salary": 4018920,
+        "PER": 18.3,
+        "Salary_per_efficiency": 219613.11
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2004,
+        "Salary": 4320360,
+        "PER": 25.7,
+        "Salary_per_efficiency": 168107.39
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2005,
+        "Salary": 4621800,
+        "PER": 28.1,
+        "Salary_per_efficiency": 164476.87
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2006,
+        "Salary": 5828090,
+        "PER": 24.5,
+        "Salary_per_efficiency": 237881.22
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2007,
+        "Salary": 13041250,
+        "PER": 29.1,
+        "Salary_per_efficiency": 448152.92
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2008,
+        "Salary": 14410581,
+        "PER": 31.7,
+        "Salary_per_efficiency": 454592.46
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2009,
+        "Salary": 15779912,
+        "PER": 31.1,
+        "Salary_per_efficiency": 507392.67
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2010,
+        "Salary": 14500000,
+        "PER": 27.3,
+        "Salary_per_efficiency": 531135.53
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2011,
+        "Salary": 16022500,
+        "PER": 30.7,
+        "Salary_per_efficiency": 521905.54
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2012,
+        "Salary": 17545000,
+        "PER": 31.6,
+        "Salary_per_efficiency": 555221.52
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2013,
+        "Salary": 19067500,
+        "PER": 29.3,
+        "Salary_per_efficiency": 650767.92
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2014,
+        "Salary": 20644400,
+        "PER": 25.9,
+        "Salary_per_efficiency": 797081.08
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2015,
+        "Salary": 22971000,
+        "PER": 27.5,
+        "Salary_per_efficiency": 835309.09
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2016,
+        "Salary": 30963450,
+        "PER": 27.0,
+        "Salary_per_efficiency": 1146794.44
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2017,
+        "Salary": 33285709,
+        "PER": 28.6,
+        "Salary_per_efficiency": 1163835.98
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1984,
+        "Salary": 550000,
+        "PER": 25.8,
+        "Salary_per_efficiency": 21317.83
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1985,
+        "Salary": 630000,
+        "PER": 27.5,
+        "Salary_per_efficiency": 22909.09
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1987,
+        "Salary": 845000,
+        "PER": 31.7,
+        "Salary_per_efficiency": 26656.15
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1988,
+        "Salary": 2000000,
+        "PER": 31.1,
+        "Salary_per_efficiency": 64308.68
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1989,
+        "Salary": 2500000,
+        "PER": 31.2,
+        "Salary_per_efficiency": 80128.21
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1990,
+        "Salary": 2500000,
+        "PER": 31.6,
+        "Salary_per_efficiency": 79113.92
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1991,
+        "Salary": 3250000,
+        "PER": 27.7,
+        "Salary_per_efficiency": 117328.52
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1992,
+        "Salary": 4000000,
+        "PER": 29.7,
+        "Salary_per_efficiency": 134680.13
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1994,
+        "Salary": 3850000,
+        "PER": 22.1,
+        "Salary_per_efficiency": 174208.14
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1995,
+        "Salary": 3850000,
+        "PER": 29.4,
+        "Salary_per_efficiency": 130952.38
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1996,
+        "Salary": 30140000,
+        "PER": 27.8,
+        "Salary_per_efficiency": 1084172.66
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1997,
+        "Salary": 33140000,
+        "PER": 25.2,
+        "Salary_per_efficiency": 1315079.37
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 2001,
+        "Salary": 1000000,
+        "PER": 20.7,
+        "Salary_per_efficiency": 48309.18
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 2002,
+        "Salary": 1030000,
+        "PER": 19.3,
+        "Salary_per_efficiency": 53367.88
+    }
+]

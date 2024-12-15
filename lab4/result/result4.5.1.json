@@ -1,0 +1,23 @@
+[
+    {
+        "Player": "Kobe Bryant",
+        "Sum_salary": 328238062,
+        "Min_salary": 1015000,
+        "Max_salary": 30453805,
+        "AVG_salary": 16411903.1
+    },
+    {
+        "Player": "Lebron James",
+        "Sum_salary": 237020472,
+        "Min_salary": 4018920,
+        "Max_salary": 33285709,
+        "AVG_salary": 15801364.8
+    },
+    {
+        "Player": "Michael Jordan",
+        "Sum_salary": 93285000,
+        "Min_salary": 550000,
+        "Max_salary": 33140000,
+        "AVG_salary": 6219000.0
+    }
+]

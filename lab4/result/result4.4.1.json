@@ -1,0 +1,112 @@
+[
+    {
+        "id": 62,
+        "name": "exquisite windows",
+        "price": 136.35,
+        "quantity": 636,
+        "category": "tools",
+        "fromCity": "Осера",
+        "isAvailable": "1",
+        "views": 62100,
+        "version": 14
+    },
+    {
+        "id": 98,
+        "name": "refined wallpaper",
+        "price": 85.77,
+        "quantity": 727,
+        "category": "tools",
+        "fromCity": "Баку",
+        "isAvailable": "1",
+        "views": 59310,
+        "version": 13
+    },
+    {
+        "id": 129,
+        "name": "trendy moisturizer",
+        "price": 19.96,
+        "quantity": 577,
+        "category": "cosmetics",
+        "fromCity": "Будапешт",
+        "isAvailable": "0",
+        "views": 88933,
+        "version": 12
+    },
+    {
+        "id": 164,
+        "name": "sublime trim",
+        "price": 53.42,
+        "quantity": 776,
+        "category": "tools",
+        "fromCity": "Вроцлав",
+        "isAvailable": "1",
+        "views": 56409,
+        "version": 10
+    },
+    {
+        "id": 184,
+        "name": "attractive siding",
+        "price": 104.23,
+        "quantity": 826,
+        "category": "tools",
+        "fromCity": "Сьюдад-Реаль",
+        "isAvailable": "1",
+        "views": 27491,
+        "version": 10
+    },
+    {
+        "id": 9,
+        "name": "trendy bubble bath",
+        "price": 75.46000000000001,
+        "quantity": 1194,
+        "category": "cosmetics",
+        "fromCity": "Камбадос",
+        "isAvailable": "0",
+        "views": 95569,
+        "version": 9
+    },
+    {
+        "id": 33,
+        "name": "glamorous plumbing",
+        "price": 27.37,
+        "quantity": 1263,
+        "category": "tools",
+        "fromCity": "Сеговия",
+        "isAvailable": "0",
+        "views": 58052,
+        "version": 8
+    },
+    {
+        "id": 103,
+        "name": "exquisite scaffolding",
+        "price": 65.69,
+        "quantity": 635,
+        "category": "tools",
+        "fromCity": "Варшава",
+        "isAvailable": "1",
+        "views": 90503,
+        "version": 8
+    },
+    {
+        "id": 56,
+        "name": "pretty toner",
+        "price": 49.43,
+        "quantity": 636,
+        "category": "cosmetics",
+        "fromCity": "Аликанте",
+        "isAvailable": "1",
+        "views": 56591,
+        "version": 7
+    },
+    {
+        "id": 59,
+        "name": "superb flooring",
+        "price": 52.54,
+        "quantity": 825,
+        "category": "tools",
+        "fromCity": "Фигерас",
+        "isAvailable": "0",
+        "views": 79547,
+        "version": 7
+    }
+]

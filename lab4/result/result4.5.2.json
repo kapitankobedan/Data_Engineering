@@ -1,0 +1,247 @@
+[
+    {
+        "Player": "Kobe Bryant",
+        "Season": 1996,
+        "Avg_salary_per_game": 25375
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 1997,
+        "Avg_salary_per_game": 25938
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 1998,
+        "Avg_salary_per_game": 45482
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 1999,
+        "Avg_salary_per_game": 204545
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2000,
+        "Avg_salary_per_game": 241190
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2001,
+        "Avg_salary_per_game": 227272
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2002,
+        "Avg_salary_per_game": 263297
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2003,
+        "Avg_salary_per_game": 310344
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2004,
+        "Avg_salary_per_game": 214772
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2005,
+        "Avg_salary_per_game": 366594
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2006,
+        "Avg_salary_per_game": 432164
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2007,
+        "Avg_salary_per_game": 378458
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2008,
+        "Avg_salary_per_game": 405000
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2009,
+        "Avg_salary_per_game": 479882
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2010,
+        "Avg_salary_per_game": 539266
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2011,
+        "Avg_salary_per_game": 721271
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2012,
+        "Avg_salary_per_game": 357040
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2013,
+        "Avg_salary_per_game": 5075634
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2014,
+        "Avg_salary_per_game": 671428
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Season": 2015,
+        "Avg_salary_per_game": 378787
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2003,
+        "Avg_salary_per_game": 50872
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2004,
+        "Avg_salary_per_game": 54004
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2005,
+        "Avg_salary_per_game": 100473
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2006,
+        "Avg_salary_per_game": 118940
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2007,
+        "Avg_salary_per_game": 296392
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2008,
+        "Avg_salary_per_game": 303380
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2009,
+        "Avg_salary_per_game": 362756
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2010,
+        "Avg_salary_per_game": 290000
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2011,
+        "Avg_salary_per_game": 377000
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2012,
+        "Avg_salary_per_game": 354444
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2013,
+        "Avg_salary_per_game": 393144
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2014,
+        "Avg_salary_per_game": 463919
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2015,
+        "Avg_salary_per_game": 473628
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2016,
+        "Avg_salary_per_game": 673118
+    },
+    {
+        "Player": "Lebron James",
+        "Season": 2017,
+        "Avg_salary_per_game": 640109
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1984,
+        "Avg_salary_per_game": 12790
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1985,
+        "Avg_salary_per_game": 60000
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1987,
+        "Avg_salary_per_game": 18369
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1988,
+        "Avg_salary_per_game": 40816
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1989,
+        "Avg_salary_per_game": 51020
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1990,
+        "Avg_salary_per_game": 50505
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1991,
+        "Avg_salary_per_game": 63725
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1992,
+        "Avg_salary_per_game": 82474
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1994,
+        "Avg_salary_per_game": 285185
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1995,
+        "Avg_salary_per_game": 77000
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1996,
+        "Avg_salary_per_game": 596831
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 1997,
+        "Avg_salary_per_game": 643495
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 2001,
+        "Avg_salary_per_game": 16666
+    },
+    {
+        "Player": "Michael Jordan",
+        "Season": 2002,
+        "Avg_salary_per_game": 12560
+    }
+]

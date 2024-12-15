@@ -1,0 +1,14 @@
+[
+    {
+        "Player": "Lebron James",
+        "Avg_three_point_rate": 22.02
+    },
+    {
+        "Player": "Kobe Bryant",
+        "Avg_three_point_rate": 21.37
+    },
+    {
+        "Player": "Michael Jordan",
+        "Avg_three_point_rate": 7.96
+    }
+]

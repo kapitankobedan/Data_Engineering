@@ -1,0 +1,184 @@
+[
+    {
+        "fromCity": "Аликанте",
+        "SUM(price)": 49.43,
+        "MIN(price)": 49.43,
+        "MAX(price)": 49.43,
+        "AVG(price)": 49.43
+    },
+    {
+        "fromCity": "Алма-Ата",
+        "SUM(price)": 59.63,
+        "MIN(price)": 59.63,
+        "MAX(price)": 59.63,
+        "AVG(price)": 59.63
+    },
+    {
+        "fromCity": "Астана",
+        "SUM(price)": 113.646,
+        "MIN(price)": 25.486,
+        "MAX(price)": 88.16,
+        "AVG(price)": 56.823
+    },
+    {
+        "fromCity": "Афины",
+        "SUM(price)": 34.760000000000005,
+        "MIN(price)": 34.760000000000005,
+        "MAX(price)": 34.760000000000005,
+        "AVG(price)": 34.760000000000005
+    },
+    {
+        "fromCity": "Баку",
+        "SUM(price)": 107.41,
+        "MIN(price)": 21.64,
+        "MAX(price)": 85.77,
+        "AVG(price)": 53.705
+    },
+    {
+        "fromCity": "Бишкек",
+        "SUM(price)": 61.33,
+        "MIN(price)": 61.33,
+        "MAX(price)": 61.33,
+        "AVG(price)": 61.33
+    },
+    {
+        "fromCity": "Бланес",
+        "SUM(price)": 43.74,
+        "MIN(price)": 43.74,
+        "MAX(price)": 43.74,
+        "AVG(price)": 43.74
+    },
+    {
+        "fromCity": "Будапешт",
+        "SUM(price)": 73.03,
+        "MIN(price)": 73.03,
+        "MAX(price)": 73.03,
+        "AVG(price)": 73.03
+    },
+    {
+        "fromCity": "Бургос",
+        "SUM(price)": 82.37,
+        "MIN(price)": 82.37,
+        "MAX(price)": 82.37,
+        "AVG(price)": 82.37
+    },
+    {
+        "fromCity": "Варшава",
+        "SUM(price)": 119.08,
+        "MIN(price)": 53.39,
+        "MAX(price)": 65.69,
+        "AVG(price)": 59.54
+    },
+    {
+        "fromCity": "Виго",
+        "SUM(price)": 91.44,
+        "MIN(price)": 12.61,
+        "MAX(price)": 78.83,
+        "AVG(price)": 45.72
+    },
+    {
+        "fromCity": "Вильявисиоса",
+        "SUM(price)": 69.98,
+        "MIN(price)": 69.98,
+        "MAX(price)": 69.98,
+        "AVG(price)": 69.98
+    },
+    {
+        "fromCity": "Вроцлав",
+        "SUM(price)": 53.42,
+        "MIN(price)": 53.42,
+        "MAX(price)": 53.42,
+        "AVG(price)": 53.42
+    },
+    {
+        "fromCity": "Гранада",
+        "SUM(price)": 98.64,
+        "MIN(price)": 98.64,
+        "MAX(price)": 98.64,
+        "AVG(price)": 98.64
+    },
+    {
+        "fromCity": "Ереван",
+        "SUM(price)": 78.98,
+        "MIN(price)": 78.98,
+        "MAX(price)": 78.98,
+        "AVG(price)": 78.98
+    },
+    {
+        "fromCity": "Касерес",
+        "SUM(price)": 41.18,
+        "MIN(price)": 41.18,
+        "MAX(price)": 41.18,
+        "AVG(price)": 41.18
+    },
+    {
+        "fromCity": "Мурсия",
+        "SUM(price)": 57.900000000000006,
+        "MIN(price)": 57.900000000000006,
+        "MAX(price)": 57.900000000000006,
+        "AVG(price)": 57.900000000000006
+    },
+    {
+        "fromCity": "Навалькарнеро",
+        "SUM(price)": 55.23,
+        "MIN(price)": 55.23,
+        "MAX(price)": 55.23,
+        "AVG(price)": 55.23
+    },
+    {
+        "fromCity": "Осера",
+        "SUM(price)": 136.35,
+        "MIN(price)": 136.35,
+        "MAX(price)": 136.35,
+        "AVG(price)": 136.35
+    },
+    {
+        "fromCity": "Сан-Себастьян",
+        "SUM(price)": 84.22,
+        "MIN(price)": 84.22,
+        "MAX(price)": 84.22,
+        "AVG(price)": 84.22
+    },
+    {
+        "fromCity": "Сория",
+        "SUM(price)": 85.98,
+        "MIN(price)": 85.98,
+        "MAX(price)": 85.98,
+        "AVG(price)": 85.98
+    },
+    {
+        "fromCity": "Сьюдад-Реаль",
+        "SUM(price)": 104.23,
+        "MIN(price)": 104.23,
+        "MAX(price)": 104.23,
+        "AVG(price)": 104.23
+    },
+    {
+        "fromCity": "Ташкент",
+        "SUM(price)": 98.17,
+        "MIN(price)": 26.8,
+        "MAX(price)": 71.37,
+        "AVG(price)": 49.085
+    },
+    {
+        "fromCity": "Тудела",
+        "SUM(price)": 163.76999999999998,
+        "MIN(price)": 54.69,
+        "MAX(price)": 109.08,
+        "AVG(price)": 81.88499999999999
+    },
+    {
+        "fromCity": "Фигерас",
+        "SUM(price)": 144.03,
+        "MIN(price)": 49.79,
+        "MAX(price)": 94.24,
+        "AVG(price)": 72.015
+    },
+    {
+        "fromCity": "Хихон",
+        "SUM(price)": 99.3,
+        "MIN(price)": 16.77,
+        "MAX(price)": 82.53,
+        "AVG(price)": 49.65
+    }
+]
