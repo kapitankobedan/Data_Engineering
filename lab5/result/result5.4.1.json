@@ -1,72 +1,82 @@
 [
     {
-        "Season": 2017,
-        "Team": "Cleveland Cavaliers",
+        "Season": 2013,
+        "Team": "Los Angeles Lakers",
         "Lg": "NBA",
-        "Salary": 33285709,
-        "Player": "Lebron James"
+        "Salary": 34866561.344500005,
+        "Player": "Kobe Bryant",
+        "BLK": 2
     },
     {
-        "Season": 1997,
-        "Team": "Chicago Bulls",
+        "Season": 2012,
+        "Team": "Los Angeles Lakers",
         "Lg": "NBA",
-        "Salary": 33140000,
-        "Player": "Michael Jordan"
+        "Salary": 31884490.690100007,
+        "Player": "Kobe Bryant",
+        "BLK": 2
     },
     {
         "Season": 2016,
         "Team": "Cleveland Cavaliers",
         "Lg": "NBA",
         "Salary": 30963450,
-        "Player": "Lebron James"
-    },
-    {
-        "Season": 2013,
-        "Team": "Los Angeles Lakers",
-        "Lg": "NBA",
-        "Salary": 30453805,
-        "Player": "Kobe Bryant"
+        "Player": "Lebron James",
+        "BLK": 2
     },
     {
         "Season": 1996,
         "Team": "Chicago Bulls",
         "Lg": "NBA",
         "Salary": 30140000,
-        "Player": "Michael Jordan"
-    },
-    {
-        "Season": 2012,
-        "Team": "Los Angeles Lakers",
-        "Lg": "NBA",
-        "Salary": 27849149,
-        "Player": "Kobe Bryant"
+        "Player": "Michael Jordan",
+        "BLK": 2
     },
     {
         "Season": 2011,
         "Team": "Los Angeles Lakers",
         "Lg": "NBA",
-        "Salary": 25244493,
-        "Player": "Kobe Bryant"
+        "Salary": 28902420.035700005,
+        "Player": "Kobe Bryant",
+        "BLK": 2
     },
     {
         "Season": 2015,
         "Team": "Los Angeles Lakers",
         "Lg": "NBA",
-        "Salary": 25000000,
-        "Player": "Kobe Bryant"
+        "Salary": 28622500.0,
+        "Player": "Kobe Bryant",
+        "BLK": 2
     },
     {
         "Season": 2010,
         "Team": "Los Angeles Lakers",
         "Lg": "NBA",
-        "Salary": 24806250,
-        "Player": "Kobe Bryant"
+        "Salary": 28400675.625,
+        "Player": "Kobe Bryant",
+        "BLK": 2
     },
     {
         "Season": 2014,
         "Team": "Los Angeles Lakers",
         "Lg": "NBA",
-        "Salary": 23500000,
-        "Player": "Kobe Bryant"
+        "Salary": 26905150.0,
+        "Player": "Kobe Bryant",
+        "BLK": 2
+    },
+    {
+        "Season": 2009,
+        "Team": "Los Angeles Lakers",
+        "Lg": "NBA",
+        "Salary": 26372055.9375,
+        "Player": "Kobe Bryant",
+        "BLK": 2
+    },
+    {
+        "Season": 2008,
+        "Team": "Los Angeles Lakers",
+        "Lg": "NBA",
+        "Salary": 24343436.25,
+        "Player": "Kobe Bryant",
+        "BLK": 2
     }
 ]

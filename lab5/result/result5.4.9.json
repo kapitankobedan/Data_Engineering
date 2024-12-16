@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "Michael Jordan",
+        "max_PER": 29.4,
+        "min_PER": 22.1,
+        "avg_PER": 26.4
+    },
+    {
+        "_id": "Kobe Bryant",
+        "max_PER": 24.7,
+        "min_PER": 10.7,
+        "avg_PER": 21.3875
+    },
+    {
+        "_id": "Lebron James",
+        "max_PER": 32.2,
+        "min_PER": 25.6,
+        "avg_PER": 28.714285714285715
+    }
+]

@@ -175,29 +175,6 @@ def query28(collection):
         result.append(item)
     return result
 
-def query28(collection):
-    q = [
-        {
-            '$group': {
-                '_id': '$salary',
-                'max_age': {'$max': '$age'}
-            }
-        },
-        {
-            '$group': {
-                '_id': '$result',
-                'min_salary': {'$min': '$_id'},
-                'max_age': {'$max': '$max_age'}
-            }
-        }
-    ]
-    data = collection.aggregate(q)
-    result = []
-    for item in data:
-        item.pop('_id', None)
-        result.append(item)
-    return result
-
 def query29(collection):
     q = [
         {
